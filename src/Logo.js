@@ -1,8 +1,11 @@
-import
+import logo from "./Visuals/logoRest.png";
 
 function Logo() {
-    return(
-        <>
-        </>
-    );
+  return (
+    <>
+      <img src={logo} alt="Logo" />
+    </>
+  );
 }
+
+export default Logo;

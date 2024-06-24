@@ -1,8 +1,13 @@
 import Nav from "./Nav";
+import Logo from "./Logo";
 
 function Header() {
-  return;
-  <Nav />;
+  return (
+    <>
+      <Logo />;
+      <Nav />;
+    </>
+  );
 }
 
 export default Header;
