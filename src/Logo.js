@@ -1,3 +1,4 @@
+import "./Logo.css";
 import logo from "./Visuals/logoRest.png";
 
 function Logo() {

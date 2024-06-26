@@ -1,7 +1,9 @@
+import "./Nav.css";
+
 function Nav() {
   return (
     <>
-      <ul>
+      <ul className="navbar">
         <li>
           <a href="#">Home</a>
         </li>
