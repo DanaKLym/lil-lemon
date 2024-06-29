@@ -1,13 +1,15 @@
 .navbar {
   display: flex;
-  flex-direction: row;
-  justify-content: space-around;
+
+  margin: 16px 0;
 }
 
 .navbar li {
+  margin: 16px;
   list-style: none;
 }
 
 .navbar a {
   text-decoration: none;
+  color: #495e57;
 }

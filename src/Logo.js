@@ -1,5 +1,5 @@
 import "./Logo.css";
-import logo from "./Visuals/logoRest.png";
+import logo from "./Visuals/Logo.svg";
 
 function Logo() {
   return (
