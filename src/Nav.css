@@ -5,11 +5,24 @@
 }
 
 .navbar li {
-  margin: 16px;
+  margin: 6px;
+  padding: 10px;
   list-style: none;
+  border: 2px solid #edefee;
+  transition: var(--transition);
+}
+
+.navbar li:hover {
+  border: 2px solid #f4ce14;
+  transition: var(--transition);
 }
 
 .navbar a {
   text-decoration: none;
   color: #495e57;
+  text-transform: uppercase;
+}
+
+.navbar a:hover {
+  color: #f4ce14;
 }
