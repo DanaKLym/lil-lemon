@@ -7,7 +7,7 @@ function Home() {
   return (
     <>
       <Nav />
-      <h2>This is Header</h2>
+      <header>This is Header</header>
       <Main />
       <Footer />
     </>
