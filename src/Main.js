@@ -1,7 +1,9 @@
+import "./Main.css";
+
 function Main() {
   return (
     <>
-      <div>This is a Main section</div>
+      <h1>This is a Main section</h1>
     </>
   );
 }
