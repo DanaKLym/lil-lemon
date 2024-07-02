@@ -4,7 +4,7 @@ import logo from "./Visuals/Logo.svg";
 function Logo() {
   return (
     <>
-      <img src={logo} alt="Logo" />
+      <img src={logo} alt="Logo" className="logo" />
     </>
   );
 }
