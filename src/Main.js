@@ -3,7 +3,7 @@ import "./Main.css";
 function Main() {
   return (
     <>
-      <h1>This is a Main section</h1>
+      <h2>This is a Main section</h2>
       <div>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla posuere
         sem et sollicitudin maximus. Cras interdum nibh nec leo porta, nec

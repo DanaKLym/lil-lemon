@@ -1,4 +1,9 @@
-header {
-  color: blueviolet;
-  font-weight: 600;
+.heroSection {
+  margin: 30px 8%;
+  padding: 16px;
+
+  background-color: aquamarine;
+  text-align: left;
+  background-color: #fbdabb;
+  border-radius: 16px;
 }
